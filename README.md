@@ -1,4 +1,5 @@
 ## Hi there 👋
+my Name is Abdul Azim as Data science
 
 <!--
 **abduliop/abduliop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
